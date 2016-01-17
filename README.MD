@@ -1,6 +1,6 @@
 About
 -----
-Unofficial iGoogle widget for Google Reader that works with Google Apps
+Unofficial iGoogle widget for Google Reader that works with Google Apps. Originally created around October 2008.
 
 Background
 ----------
@@ -26,8 +26,6 @@ This project is no longer under active development.
 
 Copyright
 ---------
-Copyright (c) 2009 SolidMatrix Technologies, Inc.
-
 Copyright (c) 2008-2015 Shaftek Enterprises.
 
 Copyright (c) 2016- Impossible Dreams Network.
