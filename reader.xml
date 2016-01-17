@@ -11,8 +11,8 @@
 		author_link="http://www.shaftek.org"
 		scrolling="true"
 		singleton="true"
-		screenshot="http://www.shaftek.org/code/greader-gadget/screenshot.png"
-		thumbnail="http://www.shaftek.org/code/greader-gadget/thumbnail.png"
+		screenshot="https://raw.githubusercontent.com/impossibledreams/greader-gadget/master/screenshot.png"
+		thumbnail="https://raw.githubusercontent.com/impossibledreams/greader-gadget/master/thumbnail.png"
 		>
         <Require feature="dynamic-height"/>	    
 	</ModulePrefs>
